@@ -9,7 +9,7 @@ J'adore apprendre de nouvelles choses et partager mes projets avec le monde 🌍
 ##👩🏾 À propos de moi
 - 🧑🏾‍🎓 **Etudiante 2e année BTS SIO option SLAM** : J'aime créer des interfaces jolies et fonctionnelles temps en temps 😅.
 - 🌱 **J'apprends** : React, Node.js, et comment rendre le web plus accessible.
-- 💖 **Passions** : webtoon, thé ☕, crepes ✨.
+- 💖 **Passions** : webtoon, thé ☕, crêpes 😋.
 - 🎯 **Objectif** : Devenir une pro du développement web .
 - ⚡ **Fun fact** : Je collectionne les stickers sur mon ordi portable 💻.
 
