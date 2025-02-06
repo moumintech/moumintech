@@ -44,14 +44,14 @@ J'adore apprendre de nouvelles choses et partager mes projets avec le monde 🌍
 ---
 
 ## 📊 Mes stats GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical&hide_border=true&bg_color=ffcccc&title_color=ff69b4&icon_color=ff69b4&text_color=333333)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=moumintech&show_icons=true&theme=radical&hide_border=true&bg_color=ffcccc&title_color=ff69b4&icon_color=ff69b4&text_color=333333)
 
 ---
 
 ## 💌 Contacte-moi
 Tu veux collaborer ou discuter ? N'hésite pas à me contacter !  
 - 📧 **Email** : [ envoie moi message ](mailto:moumini.tech@gmail.com)
-- 💼 **LinkedIn** : [j'ai pas pour le moment ](lien_linkedin)
+- 💼 **LinkedIn** : [j'ai pas compte ](lien_linkedin)
 - 🐦 **Twitter** : [@MouminiTech](https://x.com/MouminiTech)
 - 🎨 **Portfolio** : [Portfolio](https://moumintech.github.io/Portfolio/)
 
