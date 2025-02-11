@@ -1,12 +1,12 @@
 # 🌸 Hey, je suis Zamzam! 🌸
 
 **Bienvenue sur mon profil GitHub !**  
-Je suis passionnée par le code, la créativité, et tout ce qui brille ✨.  
+ 
 J'adore apprendre de nouvelles choses et partager mes projets avec le monde 🌍.
 
 ---
 
-##👩🏾 À propos de moi
+## À propos de moi
 - 🧑🏾‍🎓 **Etudiante 2e année BTS SIO option SLAM** : J'aime créer des interfaces jolies et fonctionnelles temps en temps 😅.
 - 🌱 **J'apprends** : React, Node.js, et comment rendre le web plus accessible.
 - 💖 **Passions** : webtoon, thé ☕, crêpes 😋.
@@ -32,14 +32,10 @@ J'adore apprendre de nouvelles choses et partager mes projets avec le monde 🌍
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
 
 ---
 
-## 🌈 Mes projets préférés
-- **[Projet 1](lien)** : Une app de gestion de tâches avec des couleurs pastel 🎀.
-- **[Projet 2](lien)** : Un site e-commerce pour une boutique de bijoux 💎.
-- **[Projet 3](lien)** : Un portfolio interactif avec des animations CSS ✨.
 
 ---
 
@@ -58,7 +54,7 @@ Tu veux collaborer ou discuter ? N'hésite pas à me contacter !
 ---
 
 ## 🎀 Fun Zone
-Parce que la vie est trop courte pour ne pas s'amuser !  
+   
 ![GIF mignon](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
