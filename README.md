@@ -54,5 +54,5 @@ Want to collaborate or chat? Feel free to reach out!
 
 ---
 
-**Merci d'être passée par ici !**  
-À bientôt sur GitHub 👋✨
+**Thanks for visiting!**  
+ Hope to see you around on GitHub 👋✨
