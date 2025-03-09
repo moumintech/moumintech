@@ -1,16 +1,13 @@
 # 🌸 Hey, I'm Zamzam! 🌸  
 
 **Welcome to my GitHub profile!**  
-I love learning new things and sharing my projects with the world 🌍.  
+
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **BTS SIO (Not the K-pop group! 😆) – French IT Diploma (SLAM Track)** → Specialized in software development.  
-- 🌱 **Currently Learning**: React, Node.js & web accessibility.  
-- 💖 **Interests**: Webtoons, tea ☕, and crêpes 😋.  
-- 🎯 **Goal**: Become a skilled web developer.  
-- ⚡ **Fun Fact**: I collect stickers on my laptop 💻.  
+
 
 ---
 
@@ -43,8 +40,6 @@ I love learning new things and sharing my projects with the world 🌍.
 ## 💌 Let's Connect!  
 Want to collaborate or chat? Feel free to reach out!  
 📧 **Email**: [Send me a message](mailto:moumini.tech@gmail.com)  
-🐦 **Twitter**: [@MouminiTech](https://x.com/MouminiTech)  
-🎨 **Portfolio**: [Portfolio](https://moumintech.github.io/Portfolio/)  
 
 ---
 
