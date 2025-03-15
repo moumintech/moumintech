@@ -1,17 +1,17 @@
-# 🌸 Hey, I'm Zamzam! 🌸  
+# Hey, I'm Zamzam!  
 
 **Welcome to my GitHub profile!**  
 
 
 ---
 
-## 🚀 About Me  
-- 🎓 **BTS SIO (Not the K-pop group! 😆) – French IT Diploma (SLAM Track)** → Specialized in software development.  
+## About Me  
+-  **BTS SIO (Not the K-pop group! 😆) – French IT Diploma (SLAM Track)** → Specialized in software development.  
 
 
 ---
 
-## 🛠️ Skills (In Progress)  
+##  Skills (In Progress)  
 
 ### 💻 Languages & Tools  
 **Self-taught (Online Courses)**  
@@ -32,12 +32,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moumintech&show_icons=true&theme=radical&hide_border=true&bg_color=ffcccc&title_color=ff69b4&icon_color=ff69b4&text_color=333333)  
 
 ---
 
-## 💌 Let's Connect!  
+## 💌Let's Connect!  
 Want to collaborate or chat? Feel free to reach out!  
 📧 **Email**: [Send me a message](mailto:moumini.tech@gmail.com)  
 
