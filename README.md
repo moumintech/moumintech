@@ -43,7 +43,7 @@ Want to collaborate or chat? Feel free to reach out!
 
 ---
 
-## 🎀 Fun Zone
+
    
 ![GIF mignon](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
