@@ -6,7 +6,7 @@
 ---
 
 ## About Me  
--  **BTS SIO (Not the K-pop group! 😆) – French IT Diploma (SLAM Track)** → Specialized in software development.  
+-  **BTS SIO  – French IT Diploma (SLAM Track)** → Specialized in software development.  
 
 
 ---
@@ -50,4 +50,4 @@ Want to collaborate or chat? Feel free to reach out!
 ---
 
 **Thanks for visiting!**  
- Hope to see you around on GitHub 👋✨
+ Hope to see you around on GitHub 👋
