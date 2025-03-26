@@ -1,4 +1,4 @@
-#  Hello, I'm Sophie !
+#  Hello, I'm Zamzam!
 
 **BTS SIO SLAM Student** | Future Software Developer  
 Passionate about web development and learning new technologies  
