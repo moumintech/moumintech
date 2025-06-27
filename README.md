@@ -22,11 +22,8 @@ Passionate about web development and learning new technologies
 ##  GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=moumintech&show_icons=true&theme=radical)
 
----
-## Let's Connect!  
-Want to collaborate or chat? Feel free to reach out!  
-**Email**: [Send me a message](mailto:moumini.tech@gmail.com)  
+
 
 ---
 **Thanks for visiting!**  
- Hope to see you around on GitHub 
+ Hope to see you around on GitHub :)
