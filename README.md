@@ -1,7 +1,7 @@
 #  Hello, I'm Zamzam!
 
-**BTS SIO SLAM Student** | Future Software Developer  
-Passionate about web development and learning new technologies  
+**Computer Science** Student specializing in Front-End Development
+Passionate about creating modern web interfaces and learning new technologies
 
 ## Tech Stack  
 **Frontend**  
