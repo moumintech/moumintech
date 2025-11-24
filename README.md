@@ -1,4 +1,4 @@
-#  Hello, I'm Zamzam!
+#  Hello, I'm Zam!
 
 **Computer Science** Student specializing in Front-End Development
 Passionate about creating modern web interfaces and learning new technologies
