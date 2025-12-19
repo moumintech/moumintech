@@ -11,6 +11,3 @@ I also use Git and Figma while working on my projects.
 
 I’m building my GitHub as a place to track my learning and share my progress.
 
-
-Thanks for taking the time to visit my profile.  
-Hope to see you around on GitHub 🙂
